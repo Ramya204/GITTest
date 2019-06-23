@@ -8,6 +8,8 @@ public class GitTest {
 		int a=10;
 		String s="abcd";
 		System.out.println(a+s);
+		System.out.println("priya added");
+
 	}
 
 }
