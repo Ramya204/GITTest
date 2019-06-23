@@ -10,6 +10,7 @@ public class GitTest {
 		System.out.println(a+s);
 		System.out.println("priya added");
 		System.out.println("changed by 1");
+		System.out.println("12345");
 	}
 
 }
